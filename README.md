@@ -18,7 +18,7 @@ This project provides a tool for validating XML files against XSD schemas using 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/xml-xsd-validator.git
+    git clone https://github.com/amirmohammadraei/xml-xsd-validator.git
     cd xml-xsd-validator
     ```
 
